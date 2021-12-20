@@ -1,0 +1,28 @@
+.page-title {
+  text-align: center;
+  color: white;
+}
+.btn {
+  padding: 10px 15px;
+  background: blue;
+  border-radius: 12px;
+  border-radius: 12px;
+  width: 100%;
+  color: white;
+  font-size: 2rem;
+}
+.city-search-text {
+  width: 100%;
+}
+#weatherData {
+  width: 200px;
+  height: 500px;
+  border: 5px solid black;
+}
+.five-day {
+  justify-content: center;
+  color: blue;
+}
+.card-height {
+  min-height: 200px;
+}
